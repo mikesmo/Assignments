@@ -14,8 +14,7 @@ https://github.com/
 
 3. For all the following steps you need to create instructions for another student so that they are able to exactly repeat the steps you did to create the server. You need to write the instructions in `Markdown` (like this page). The instructions should have URL links for the student and commands for them to copy. For example:
 ```
-$ cd myDirection
-$ cp myfile.md
+$ open myFile
 ```
 
 2. Create an Amazon AWS account. 
