@@ -2,7 +2,7 @@
 
 ## Assignment 1
 
-You will earn €5 for this assignment. When you think you have finished, let me know and I will review whether the assingment has been completed or what more needs to be done.
+You will earn **€5** for this assignment. When you think you have finished, let me know and I will review whether the assingment has been completed or what more needs to be done.
 
 **Goal: Install an Apache 2 web server on an EC2 server on Amazon Web Services**
 
