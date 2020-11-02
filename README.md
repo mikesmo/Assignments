@@ -4,9 +4,10 @@
 
 You will earn €5 for this assignment. When you think you have finished, let me know and I will review whether the assingment has been completed or what more needs to be done.
 
-*Goal: Install an Apache 2 web server on an EC2 server on Amazon Web Services*
+**Goal: Install an Apache 2 web server on an EC2 server on Amazon Web Services**
 
 1. Create a GitHub account using your gmail account (###.sydney@gmail.com).
+
 https://github.com/
 
 2. In Github create a public repository with a `Readme.md` file.
@@ -17,7 +18,9 @@ $ cd myDirection
 $ cp myfile.md
 ```
 
-2. Create an Amazon AWS account. https://aws.amazon.com/console/
+2. Create an Amazon AWS account. 
+
+https://aws.amazon.com/console/
 - When you need to enter a credit card, let me know and I will enter the details.
 
 3. Launch an "EC2 Server" instance. 
