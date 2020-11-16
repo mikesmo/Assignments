@@ -43,3 +43,15 @@ https://aws.amazon.com/console/
 </body>
 </html>
 ```
+
+## Assignment 2
+
+You will earn **€5** for this assignment. When you think you have finished, let me know and I will review whether the assingment has been completed or what more needs to be done.
+
+**Goal: Install an Postgresql on the EC2 same server**
+
+1. Follow this tutorial in Medium. Postgres and Visual Studio might already be installed on your computer.
+
+https://medium.com/@agavatar/webapi-with-net-core-and-postgres-in-visual-studio-code-8b3587d12823
+
+2. Write down in GitHub the same instructions with any missing steps that you discover.
